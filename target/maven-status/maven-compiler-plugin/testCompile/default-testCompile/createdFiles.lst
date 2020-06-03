@@ -1,0 +1,9 @@
+testfinal\action\ChooseVisit.class
+testfinal\ui\BookingPage.class
+testfinal\action\ChooseDate.class
+testfinal\action\ChooseVisit$ChooseVisitBuilder.class
+testfinal\question\BookingResultQuestion.class
+testfinal\features\search\Booking.class
+testfinal\features\search\package-info.class
+testfinal\action\ChooseDate$ChooseDateBuilder.class
+testfinal\tasks\SearchDestination.class
